@@ -7,8 +7,8 @@ randomize();
 /// @DnDVersion : 1
 /// @DnDHash : 5ACF5447
 /// @DnDArgument : "var" "face_sprite"
-/// @DnDArgument : "option" "happy1, happy2, happy3, happy4, happy5, happy6, happy7, happy8, happy9, sad1,sad2,sad3,sad4,sad5,sad6,angry1,angry2,angry3"
-face_sprite = choose(happy1, happy2, happy3, happy4, happy5, happy6, happy7, happy8, happy9, sad1,sad2,sad3,sad4,sad5,sad6,angry1,angry2,angry3);
+/// @DnDArgument : "option" "spr_happy1,spr_happy2,spr_happy3,spr_happy4,spr_happy5,spr_happy6,spr_happy7,spr_happy8,spr_happy9,spr_happy10,spr_happy11,spr_happy12,spr_happy13,spr_sad1,spr_sad2,spr_sad3,spr_sad4,spr_sad5,spr_sad6,spr_angry1,spr_angry2,spr_angry3,spr_bored1,spr_disgusted1,spr_dissapointed1,spr_frustrated1,spr_frustrated2,spr_worried1,spr_worried2"
+face_sprite = choose(spr_happy1,spr_happy2,spr_happy3,spr_happy4,spr_happy5,spr_happy6,spr_happy7,spr_happy8,spr_happy9,spr_happy10,spr_happy11,spr_happy12,spr_happy13,spr_sad1,spr_sad2,spr_sad3,spr_sad4,spr_sad5,spr_sad6,spr_angry1,spr_angry2,spr_angry3,spr_bored1,spr_disgusted1,spr_dissapointed1,spr_frustrated1,spr_frustrated2,spr_worried1,spr_worried2);
 
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
