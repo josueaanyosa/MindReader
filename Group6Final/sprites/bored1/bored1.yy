@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e78cb679-1f72-4b30-a5eb-71e54e52b50e","path":"sprites/bored1/bored1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e78cb679-1f72-4b30-a5eb-71e54e52b50e","path":"sprites/bored1/bored1.yy",},"LayerId":{"name":"a5c8e0aa-42fc-43af-a01f-b49242cd4257","path":"sprites/bored1/bored1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bored1","path":"sprites/bored1/bored1.yy",},"resourceVersion":"1.0","name":"e78cb679-1f72-4b30-a5eb-71e54e52b50e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ef06780d-42b9-4986-a1b2-7f111597fc21","path":"sprites/bored1/bored1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ef06780d-42b9-4986-a1b2-7f111597fc21","path":"sprites/bored1/bored1.yy",},"LayerId":{"name":"819aa176-0732-4664-87b5-c9bd22136eee","path":"sprites/bored1/bored1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"bored1","path":"sprites/bored1/bored1.yy",},"resourceVersion":"1.0","name":"ef06780d-42b9-4986-a1b2-7f111597fc21","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"bored1","path":"sprites/bored1/bored1.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"ce793d2c-230e-44b8-b032-9f49dc814cb5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e78cb679-1f72-4b30-a5eb-71e54e52b50e","path":"sprites/bored1/bored1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ab9453ca-e61c-437b-8e8e-77ee31791305","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ef06780d-42b9-4986-a1b2-7f111597fc21","path":"sprites/bored1/bored1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a5c8e0aa-42fc-43af-a01f-b49242cd4257","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"819aa176-0732-4664-87b5-c9bd22136eee","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Bored",

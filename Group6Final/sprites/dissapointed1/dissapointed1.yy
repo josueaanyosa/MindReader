@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"61f831e5-04a2-455b-9337-4e5cd7cd4c2c","path":"sprites/dissapointed1/dissapointed1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"61f831e5-04a2-455b-9337-4e5cd7cd4c2c","path":"sprites/dissapointed1/dissapointed1.yy",},"LayerId":{"name":"9dade4de-bc12-4463-a6db-86990ee3c7db","path":"sprites/dissapointed1/dissapointed1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"dissapointed1","path":"sprites/dissapointed1/dissapointed1.yy",},"resourceVersion":"1.0","name":"61f831e5-04a2-455b-9337-4e5cd7cd4c2c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"69cbfe2a-f0d4-4e01-a372-bf61e67946ff","path":"sprites/dissapointed1/dissapointed1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"69cbfe2a-f0d4-4e01-a372-bf61e67946ff","path":"sprites/dissapointed1/dissapointed1.yy",},"LayerId":{"name":"a435a4a0-0206-44ed-813e-41fdb9634547","path":"sprites/dissapointed1/dissapointed1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"dissapointed1","path":"sprites/dissapointed1/dissapointed1.yy",},"resourceVersion":"1.0","name":"69cbfe2a-f0d4-4e01-a372-bf61e67946ff","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"dissapointed1","path":"sprites/dissapointed1/dissapointed1.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"5a457e53-78f4-45d4-8395-9ab62c4467a4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"61f831e5-04a2-455b-9337-4e5cd7cd4c2c","path":"sprites/dissapointed1/dissapointed1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7f82c9f3-d5b4-4d1b-8c4a-52f471bc45cd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"69cbfe2a-f0d4-4e01-a372-bf61e67946ff","path":"sprites/dissapointed1/dissapointed1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9dade4de-bc12-4463-a6db-86990ee3c7db","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a435a4a0-0206-44ed-813e-41fdb9634547","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Dissapointed",

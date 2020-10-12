@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 923,
+  "bbox_right": 724,
   "bbox_top": 0,
-  "bbox_bottom": 591,
+  "bbox_bottom": 641,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 924,
-  "height": 592,
+  "width": 725,
+  "height": 642,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"64ecaac4-d6f4-4513-b551-2c807dc9adb5","path":"sprites/happy2/happy2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"64ecaac4-d6f4-4513-b551-2c807dc9adb5","path":"sprites/happy2/happy2.yy",},"LayerId":{"name":"3ab574d8-723b-4c5d-a373-a4b93bbddf0f","path":"sprites/happy2/happy2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"happy2","path":"sprites/happy2/happy2.yy",},"resourceVersion":"1.0","name":"64ecaac4-d6f4-4513-b551-2c807dc9adb5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"be52840f-21ef-4f6a-8b0c-448cd89be17e","path":"sprites/angry1/angry1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"be52840f-21ef-4f6a-8b0c-448cd89be17e","path":"sprites/angry1/angry1.yy",},"LayerId":{"name":"d388eae6-7ec8-4503-938a-1888086e34a5","path":"sprites/angry1/angry1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"angry1","path":"sprites/angry1/angry1.yy",},"resourceVersion":"1.0","name":"be52840f-21ef-4f6a-8b0c-448cd89be17e","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"happy2","path":"sprites/happy2/happy2.yy",},
+    "spriteId": {"name":"angry1","path":"sprites/angry1/angry1.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"57d89db5-d3f3-4970-a255-0b8c1da38f7f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"64ecaac4-d6f4-4513-b551-2c807dc9adb5","path":"sprites/happy2/happy2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8de67caf-6f4b-413c-bfd4-ff2dea4e69ed","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"be52840f-21ef-4f6a-8b0c-448cd89be17e","path":"sprites/angry1/angry1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"happy2","path":"sprites/happy2/happy2.yy",},
+    "parent": {"name":"angry1","path":"sprites/angry1/angry1.yy",},
     "resourceVersion": "1.3",
-    "name": "happy2",
+    "name": "angry1",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3ab574d8-723b-4c5d-a373-a4b93bbddf0f","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d388eae6-7ec8-4503-938a-1888086e34a5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Happy",
-    "path": "folders/Sprites/Faces/Happy.yy",
+    "name": "Angry",
+    "path": "folders/Sprites/Faces/Angry.yy",
   },
   "resourceVersion": "1.0",
-  "name": "happy2",
+  "name": "angry1",
   "tags": [],
   "resourceType": "GMSprite",
 }

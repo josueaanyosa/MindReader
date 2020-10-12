@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"de9a5e85-0e6b-4d58-9386-6bb544888cc0","path":"sprites/worried2/worried2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"de9a5e85-0e6b-4d58-9386-6bb544888cc0","path":"sprites/worried2/worried2.yy",},"LayerId":{"name":"05f3b175-42a9-41f1-a1ce-82326cd55078","path":"sprites/worried2/worried2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"worried2","path":"sprites/worried2/worried2.yy",},"resourceVersion":"1.0","name":"de9a5e85-0e6b-4d58-9386-6bb544888cc0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0027d2b4-3dee-435c-bd47-33ae1c1dbfef","path":"sprites/worried2/worried2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0027d2b4-3dee-435c-bd47-33ae1c1dbfef","path":"sprites/worried2/worried2.yy",},"LayerId":{"name":"11cbaede-9386-43de-ae96-21e5292e9fd6","path":"sprites/worried2/worried2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"worried2","path":"sprites/worried2/worried2.yy",},"resourceVersion":"1.0","name":"0027d2b4-3dee-435c-bd47-33ae1c1dbfef","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"worried2","path":"sprites/worried2/worried2.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"bc9ac232-5160-494c-8c1d-f4c36809db69","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"de9a5e85-0e6b-4d58-9386-6bb544888cc0","path":"sprites/worried2/worried2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"055395ed-ed4a-4d06-9505-b7f054eed12d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0027d2b4-3dee-435c-bd47-33ae1c1dbfef","path":"sprites/worried2/worried2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"05f3b175-42a9-41f1-a1ce-82326cd55078","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"11cbaede-9386-43de-ae96-21e5292e9fd6","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Worried",

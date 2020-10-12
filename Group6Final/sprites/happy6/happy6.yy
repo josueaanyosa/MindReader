@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"56bf84f3-8d04-4556-935f-11a6540365f6","path":"sprites/happy6/happy6.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"56bf84f3-8d04-4556-935f-11a6540365f6","path":"sprites/happy6/happy6.yy",},"LayerId":{"name":"fff2f3d0-1315-4664-9b18-9a9c5e63f8a5","path":"sprites/happy6/happy6.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"happy6","path":"sprites/happy6/happy6.yy",},"resourceVersion":"1.0","name":"56bf84f3-8d04-4556-935f-11a6540365f6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6a481027-fd50-4f93-894a-fe027460fde3","path":"sprites/happy6/happy6.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6a481027-fd50-4f93-894a-fe027460fde3","path":"sprites/happy6/happy6.yy",},"LayerId":{"name":"2c3a1a2b-6fab-415c-92e3-b93d09a9731e","path":"sprites/happy6/happy6.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"happy6","path":"sprites/happy6/happy6.yy",},"resourceVersion":"1.0","name":"6a481027-fd50-4f93-894a-fe027460fde3","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"happy6","path":"sprites/happy6/happy6.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"44836f7c-eaba-4eb7-9bc5-64b28eec573c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"56bf84f3-8d04-4556-935f-11a6540365f6","path":"sprites/happy6/happy6.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c78ec8a2-5f13-4c52-a696-5f635094b7a2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6a481027-fd50-4f93-894a-fe027460fde3","path":"sprites/happy6/happy6.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"fff2f3d0-1315-4664-9b18-9a9c5e63f8a5","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2c3a1a2b-6fab-415c-92e3-b93d09a9731e","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Happy",

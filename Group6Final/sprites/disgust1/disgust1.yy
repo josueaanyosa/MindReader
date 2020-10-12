@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"96834d80-0c04-4c1e-809c-4ef6c1a43a19","path":"sprites/disgust1/disgust1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"96834d80-0c04-4c1e-809c-4ef6c1a43a19","path":"sprites/disgust1/disgust1.yy",},"LayerId":{"name":"08a062ff-6e23-40c5-aef0-84f1274c84e3","path":"sprites/disgust1/disgust1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"disgust1","path":"sprites/disgust1/disgust1.yy",},"resourceVersion":"1.0","name":"96834d80-0c04-4c1e-809c-4ef6c1a43a19","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8513fc05-1039-46c7-b1ef-8c08972d092d","path":"sprites/disgust1/disgust1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8513fc05-1039-46c7-b1ef-8c08972d092d","path":"sprites/disgust1/disgust1.yy",},"LayerId":{"name":"f983c7da-6040-4552-8611-5d76fe573e6d","path":"sprites/disgust1/disgust1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"disgust1","path":"sprites/disgust1/disgust1.yy",},"resourceVersion":"1.0","name":"8513fc05-1039-46c7-b1ef-8c08972d092d","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"disgust1","path":"sprites/disgust1/disgust1.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"0def99d5-a565-4437-a100-ef03f3f21ac3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"96834d80-0c04-4c1e-809c-4ef6c1a43a19","path":"sprites/disgust1/disgust1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d0c6f2cd-a0c4-4fe8-ad3a-618156f00621","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8513fc05-1039-46c7-b1ef-8c08972d092d","path":"sprites/disgust1/disgust1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"08a062ff-6e23-40c5-aef0-84f1274c84e3","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f983c7da-6040-4552-8611-5d76fe573e6d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Disgust",
