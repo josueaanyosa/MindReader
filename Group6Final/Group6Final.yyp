@@ -40,6 +40,7 @@
     {"id":{"name":"oFace","path":"objects/oFace/oFace.yy",},"order":0,},
     {"id":{"name":"spr_frustrated2","path":"sprites/spr_frustrated2/spr_frustrated2.yy",},"order":1,},
     {"id":{"name":"spr_happy1","path":"sprites/spr_happy1/spr_happy1.yy",},"order":0,},
+    {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":6,},
     {"id":{"name":"spr_angry2","path":"sprites/spr_angry2/spr_angry2.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],

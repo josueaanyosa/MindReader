@@ -1,19 +1,10 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 2A69A8E1
-/// @DnDArgument : "var" "answerCorrect"
-answerCorrect = 0;
+/// @DnDHash : 1E1E328E
+/// @DnDArgument : "code" "alarm[1] = 2 * 60;$(13_10)"
+alarm[1] = 2 * 60;
 
-/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 2D07DB77
-/// @DnDArgument : "var" "answerCorrect"
-/// @DnDArgument : "value" "1"
-if(answerCorrect == 1)
-{
-	/// @DnDAction : YoYo Games.Game.Restart_Game
-	/// @DnDVersion : 1
-	/// @DnDHash : 1809761F
-	/// @DnDParent : 2D07DB77
-	game_restart();
-}
+/// @DnDHash : 347E5D9C
+instance_destroy();
