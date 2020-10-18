@@ -1,10 +1,6 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 1E1E328E
-/// @DnDArgument : "code" "alarm[1] = 2 * 60;$(13_10)"
-alarm[1] = 2 * 60;
-
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 347E5D9C
-instance_destroy();
+/// @DnDHash : 1B3187E8
+/// @DnDArgument : "expr" "30"
+/// @DnDArgument : "var" "wait_time"
+wait_time = 30;
