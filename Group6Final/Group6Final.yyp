@@ -7,6 +7,7 @@
     {"id":{"name":"spr_disgusted1","path":"sprites/spr_disgusted1/spr_disgusted1.yy",},"order":0,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":1,},
     {"id":{"name":"spr_happy6","path":"sprites/spr_happy6/spr_happy6.yy",},"order":5,},
+    {"id":{"name":"Startscreen","path":"rooms/Startscreen/Startscreen.yy",},"order":1,},
     {"id":{"name":"spr_incorrect","path":"sprites/spr_incorrect/spr_incorrect.yy",},"order":5,},
     {"id":{"name":"obj_correct","path":"objects/obj_correct/obj_correct.yy",},"order":5,},
     {"id":{"name":"spr_buttonAngry","path":"sprites/spr_buttonAngry/spr_buttonAngry.yy",},"order":4,},
@@ -23,10 +24,12 @@
     {"id":{"name":"spr_happy11","path":"sprites/spr_happy11/spr_happy11.yy",},"order":10,},
     {"id":{"name":"spr_happy8","path":"sprites/spr_happy8/spr_happy8.yy",},"order":7,},
     {"id":{"name":"spr_sad3","path":"sprites/spr_sad3/spr_sad3.yy",},"order":2,},
+    {"id":{"name":"obj_buttonStart","path":"objects/obj_buttonStart/obj_buttonStart.yy",},"order":6,},
     {"id":{"name":"spr_frustrated1","path":"sprites/spr_frustrated1/spr_frustrated1.yy",},"order":0,},
     {"id":{"name":"spr_happy7","path":"sprites/spr_happy7/spr_happy7.yy",},"order":6,},
     {"id":{"name":"spr_buttonSad","path":"sprites/spr_buttonSad/spr_buttonSad.yy",},"order":2,},
     {"id":{"name":"spr_angry1","path":"sprites/spr_angry1/spr_angry1.yy",},"order":0,},
+    {"id":{"name":"spr_start","path":"sprites/spr_start/spr_start.yy",},"order":7,},
     {"id":{"name":"spr_bored1","path":"sprites/spr_bored1/spr_bored1.yy",},"order":0,},
     {"id":{"name":"spr_happy13","path":"sprites/spr_happy13/spr_happy13.yy",},"order":12,},
     {"id":{"name":"obj_buttonSad","path":"objects/obj_buttonSad/obj_buttonSad.yy",},"order":3,},
@@ -57,6 +60,7 @@
     "children": [],
   },
   "RoomOrder": [
+    {"name":"Startscreen","path":"rooms/Startscreen/Startscreen.yy",},
     {"name":"Room1","path":"rooms/Room1/Room1.yy",},
   ],
   "Folders": [
