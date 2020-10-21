@@ -2,20 +2,20 @@
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
-  "origin": 0,
+  "origin": 4,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 724,
+  "bbox_right": 725,
   "bbox_top": 0,
-  "bbox_bottom": 641,
+  "bbox_bottom": 637,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 725,
-  "height": 642,
+  "width": 726,
+  "height": 638,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"fdaa32d5-2546-44a5-89bc-5339a8c5c962","path":"sprites/spr_angry1/spr_angry1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fdaa32d5-2546-44a5-89bc-5339a8c5c962","path":"sprites/spr_angry1/spr_angry1.yy",},"LayerId":{"name":"c22cf02d-b137-4220-ac80-ba753c30199c","path":"sprites/spr_angry1/spr_angry1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_angry1","path":"sprites/spr_angry1/spr_angry1.yy",},"resourceVersion":"1.0","name":"fdaa32d5-2546-44a5-89bc-5339a8c5c962","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4109b3a3-8761-4b58-bc29-b0e1fb4b35fb","path":"sprites/spr_angry1/spr_angry1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4109b3a3-8761-4b58-bc29-b0e1fb4b35fb","path":"sprites/spr_angry1/spr_angry1.yy",},"LayerId":{"name":"c2f0c4e5-7a7e-41ac-ae87-8235ac8fd22c","path":"sprites/spr_angry1/spr_angry1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_angry1","path":"sprites/spr_angry1/spr_angry1.yy",},"resourceVersion":"1.0","name":"4109b3a3-8761-4b58-bc29-b0e1fb4b35fb","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_angry1","path":"sprites/spr_angry1/spr_angry1.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"786e0082-8b19-468b-9929-c3d0ce63c164","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fdaa32d5-2546-44a5-89bc-5339a8c5c962","path":"sprites/spr_angry1/spr_angry1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"137e5df0-7200-45b6-855e-97a1fe16ea18","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4109b3a3-8761-4b58-bc29-b0e1fb4b35fb","path":"sprites/spr_angry1/spr_angry1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,8 +54,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 0,
-    "yorigin": 0,
+    "xorigin": 363,
+    "yorigin": 319,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_angry1","path":"sprites/spr_angry1/spr_angry1.yy",},
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c22cf02d-b137-4220-ac80-ba753c30199c","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c2f0c4e5-7a7e-41ac-ae87-8235ac8fd22c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Angry",
