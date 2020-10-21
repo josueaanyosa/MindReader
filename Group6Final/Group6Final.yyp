@@ -37,6 +37,7 @@
     {"id":{"name":"obj_buttonHappy","path":"objects/obj_buttonHappy/obj_buttonHappy.yy",},"order":2,},
     {"id":{"name":"spr_worried2","path":"sprites/spr_worried2/spr_worried2.yy",},"order":1,},
     {"id":{"name":"spr_happy5","path":"sprites/spr_happy5/spr_happy5.yy",},"order":4,},
+    {"id":{"name":"introSound","path":"sounds/introSound/introSound.yy",},"order":0,},
     {"id":{"name":"spr_angry3","path":"sprites/spr_angry3/spr_angry3.yy",},"order":2,},
     {"id":{"name":"spr_worried1","path":"sprites/spr_worried1/spr_worried1.yy",},"order":0,},
     {"id":{"name":"spr_happy9","path":"sprites/spr_happy9/spr_happy9.yy",},"order":8,},
