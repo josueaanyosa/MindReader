@@ -41,6 +41,7 @@
     {"id":{"name":"spr_sad9","path":"sprites/spr_sad9/spr_sad9.yy",},"order":9,},
     {"id":{"name":"obj_buttonPain","path":"objects/obj_buttonPain/obj_buttonPain.yy",},"order":9,},
     {"id":{"name":"spr_pain3","path":"sprites/spr_pain3/spr_pain3.yy",},"order":7,},
+    {"id":{"name":"incorrect_sound","path":"sounds/incorrect_sound/incorrect_sound.yy",},"order":1,},
     {"id":{"name":"spr_confused2","path":"sprites/spr_confused2/spr_confused2.yy",},"order":1,},
     {"id":{"name":"spr_confused4","path":"sprites/spr_confused4/spr_confused4.yy",},"order":3,},
     {"id":{"name":"spr_confused9","path":"sprites/spr_confused9/spr_confused9.yy",},"order":8,},
@@ -54,6 +55,7 @@
     {"id":{"name":"spr_happy7","path":"sprites/spr_happy7/spr_happy7.yy",},"order":6,},
     {"id":{"name":"spr_scared3","path":"sprites/spr_scared3/spr_scared3.yy",},"order":2,},
     {"id":{"name":"spr_sad8","path":"sprites/spr_sad8/spr_sad8.yy",},"order":10,},
+    {"id":{"name":"correct_sound","path":"sounds/correct_sound/correct_sound.yy",},"order":2,},
     {"id":{"name":"spr_buttonSad","path":"sprites/spr_buttonSad/spr_buttonSad.yy",},"order":2,},
     {"id":{"name":"spr_angry1","path":"sprites/spr_angry1/spr_angry1.yy",},"order":0,},
     {"id":{"name":"spr_start","path":"sprites/spr_start/spr_start.yy",},"order":7,},
@@ -76,7 +78,7 @@
     {"id":{"name":"spr_confused6","path":"sprites/spr_confused6/spr_confused6.yy",},"order":5,},
     {"id":{"name":"spr_happy1","path":"sprites/spr_happy1/spr_happy1.yy",},"order":0,},
     {"id":{"name":"spr_angry2","path":"sprites/spr_angry2/spr_angry2.yy",},"order":1,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"GameScreen","path":"rooms/GameScreen/GameScreen.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -93,7 +95,7 @@
   },
   "RoomOrder": [
     {"name":"Startscreen","path":"rooms/Startscreen/Startscreen.yy",},
-    {"name":"Room1","path":"rooms/Room1/Room1.yy",},
+    {"name":"GameScreen","path":"rooms/GameScreen/GameScreen.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

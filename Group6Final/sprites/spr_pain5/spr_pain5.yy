@@ -24,7 +24,8 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"00a7c806-4795-4a07-92da-cd57940489d0","path":"sprites/spr_pain5/spr_pain5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+    {"compositeImage":{"FrameId":{"name":"","path":"",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"","path":"",},"LayerId":{"name":"","path":"",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"00a7c806-4795-4a07-92da-cd57940489d0","path":"sprites/spr_pain5/spr_pain5.yy",},"LayerId":{"name":"7525e877-cc64-45e2-b504-7a25311df7ac","path":"sprites/spr_pain5/spr_pain5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_pain5","path":"sprites/spr_pain5/spr_pain5.yy",},"resourceVersion":"1.0","name":"00a7c806-4795-4a07-92da-cd57940489d0","tags":[],"resourceType":"GMSpriteFrame",},
   ],
