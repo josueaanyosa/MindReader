@@ -1,9 +1,8 @@
 global.refresh_needed = false;
-
 randomize();
 
 //face_sprite = choose(spr_happy1,spr_happy2,spr_happy3,spr_happy4,spr_happy5,spr_happy6,spr_happy7,spr_happy8,spr_happy9,spr_happy10,spr_happy11,spr_happy12,spr_happy13,spr_sad1,spr_sad2,spr_sad3,spr_sad4,spr_sad5,spr_sad6,spr_angry1,spr_angry2,spr_angry3);
-global.level = 1; // Justin: delete this line and implement global.level from the level screen
+// global.level = 1; // Justin: delete this line and implement global.level from the level screen
 					// The user's input defines the value of this variable
 
 switch(global.level){
