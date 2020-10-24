@@ -19,3 +19,26 @@ if(wait_time <= 0)
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "wait_time"
 wait_time += -1;
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5155C1A8
+/// @DnDArgument : "var" "score"
+/// @DnDArgument : "value" "5"
+if(score == 5)
+{
+	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+	/// @DnDVersion : 1
+	/// @DnDHash : 203615F8
+	/// @DnDParent : 5155C1A8
+	/// @DnDArgument : "room" "LevelScreen"
+	/// @DnDSaveInfo : "room" "LevelScreen"
+	room_goto(LevelScreen);
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 6868B276
+	/// @DnDParent : 5155C1A8
+	/// @DnDArgument : "var" "score"
+	score = 0;
+}
