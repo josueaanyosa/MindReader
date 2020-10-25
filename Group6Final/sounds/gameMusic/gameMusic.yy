@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 0.23,
+  "volume": 0.25,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "introSound.mp3",
+  "soundFile": "gameMusic.mp3",
   "duration": 93.52337,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "introSound",
+  "name": "gameMusic",
   "tags": [],
   "resourceType": "GMSound",
 }

@@ -17,7 +17,8 @@ audio_play_sound(incorrect_sound, 0, 0);
 /// @DnDHash : 1603539E
 /// @DnDArgument : "var" "score"
 /// @DnDArgument : "op" "4"
-if(score >= 0)
+/// @DnDArgument : "value" "1"
+if(score >= 1)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
