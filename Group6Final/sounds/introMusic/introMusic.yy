@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 0.38,
+  "volume": 0.25,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "introMusic.mp3",
-  "duration": 60.1127548,
+  "duration": 63.4303055,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
