@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 448,
-  "bbox_right": 1599,
-  "bbox_top": 764,
-  "bbox_bottom": 1343,
+  "bbox_left": 395,
+  "bbox_right": 1597,
+  "bbox_top": 367,
+  "bbox_bottom": 1032,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 2048,
-  "height": 2048,
+  "width": 2134,
+  "height": 1600,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d1233167-4077-474d-8986-b5ff1741c861","path":"sprites/spr_lvl5Dark/spr_lvl5Dark.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d1233167-4077-474d-8986-b5ff1741c861","path":"sprites/spr_lvl5Dark/spr_lvl5Dark.yy",},"LayerId":{"name":"0717fcbf-5e72-4e1b-93fc-4c35df632618","path":"sprites/spr_lvl5Dark/spr_lvl5Dark.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_lvl5Dark","path":"sprites/spr_lvl5Dark/spr_lvl5Dark.yy",},"resourceVersion":"1.0","name":"d1233167-4077-474d-8986-b5ff1741c861","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"010e1c3b-0079-4029-b47c-0ae122143c2a","path":"sprites/spr_lvl5Dark/spr_lvl5Dark.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"010e1c3b-0079-4029-b47c-0ae122143c2a","path":"sprites/spr_lvl5Dark/spr_lvl5Dark.yy",},"LayerId":{"name":"4618ed7e-b8ee-4927-8097-31e3eb46684b","path":"sprites/spr_lvl5Dark/spr_lvl5Dark.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_lvl5Dark","path":"sprites/spr_lvl5Dark/spr_lvl5Dark.yy",},"resourceVersion":"1.0","name":"010e1c3b-0079-4029-b47c-0ae122143c2a","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_lvl5Dark","path":"sprites/spr_lvl5Dark/spr_lvl5Dark.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"8ee317ee-737d-479b-904a-dd2ebc7bb70b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d1233167-4077-474d-8986-b5ff1741c861","path":"sprites/spr_lvl5Dark/spr_lvl5Dark.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5db7724a-7da0-4616-aa03-110f97360188","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"010e1c3b-0079-4029-b47c-0ae122143c2a","path":"sprites/spr_lvl5Dark/spr_lvl5Dark.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,11 +65,11 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0717fcbf-5e72-4e1b-93fc-4c35df632618","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4618ed7e-b8ee-4927-8097-31e3eb46684b","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Levels",
+    "path": "folders/Sprites/Levels.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_lvl5Dark",
