@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_happy1",
-    "path": "sprites/spr_happy1/spr_happy1.yy",
+    "name": "spr_text2",
+    "path": "sprites/spr_text2/spr_text2.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,9 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_tutorialExample","path":"objects/obj_tutorialExample/obj_tutorialExample.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -30,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_tutorialExample",
+  "name": "obj_text2",
   "tags": [],
   "resourceType": "GMObject",
 }
