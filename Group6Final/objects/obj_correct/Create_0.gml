@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 1B3187E8
-/// @DnDArgument : "expr" "30"
+/// @DnDArgument : "expr" "60"
 /// @DnDArgument : "var" "wait_time"
-wait_time = 30;
+wait_time = 60;
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
