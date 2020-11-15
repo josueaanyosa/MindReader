@@ -31,9 +31,9 @@ if(score == 5)
 	/// @DnDVersion : 1
 	/// @DnDHash : 203615F8
 	/// @DnDParent : 5155C1A8
-	/// @DnDArgument : "room" "LevelScreen"
-	/// @DnDSaveInfo : "room" "LevelScreen"
-	room_goto(LevelScreen);
+	/// @DnDArgument : "room" "LevelComplete"
+	/// @DnDSaveInfo : "room" "LevelComplete"
+	room_goto(LevelComplete);
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
