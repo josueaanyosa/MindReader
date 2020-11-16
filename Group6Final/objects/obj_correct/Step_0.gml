@@ -41,11 +41,4 @@ if(score == 5)
 	/// @DnDParent : 5155C1A8
 	/// @DnDArgument : "var" "score"
 	score = 0;
-
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 6FAFCD7F
-	/// @DnDParent : 5155C1A8
-	/// @DnDArgument : "var" "timesHintUsed"
-	timesHintUsed = 0;
 }
