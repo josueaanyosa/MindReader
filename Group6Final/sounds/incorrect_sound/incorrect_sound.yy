@@ -1,6 +1,6 @@
 {
   "compression": 1,
-  "volume": 0.39,
+  "volume": 0.47,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "incorrect_sound.mp3",
-  "duration": 2.826224,
+  "duration": 1.885816,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
