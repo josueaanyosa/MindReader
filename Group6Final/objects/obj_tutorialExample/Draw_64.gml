@@ -39,13 +39,53 @@ draw_text_transformed(0, 400, "" + string(tutorialInstructions3), 1.5, 1.5, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1
+/// @DnDHash : 2145F182
+/// @DnDArgument : "y" "450"
+/// @DnDArgument : "xscale" "1.5"
+/// @DnDArgument : "yscale" "1.5"
+/// @DnDArgument : "caption" ""
+/// @DnDArgument : "text" "tutorialInstructions4"
+draw_text_transformed(0, 450, "" + string(tutorialInstructions4), 1.5, 1.5, 0);
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+/// @DnDVersion : 1
 /// @DnDHash : 0A43B0D8
 /// @DnDArgument : "x" "835"
-/// @DnDArgument : "y" "300"
+/// @DnDArgument : "y" "200"
 /// @DnDArgument : "xscale" "1.5"
 /// @DnDArgument : "yscale" "1.5"
 /// @DnDArgument : "caption" ""Click the left mouse button to advance.""
-draw_text_transformed(835, 300, string("Click the left mouse button to advance.") + "", 1.5, 1.5, 0);
+draw_text_transformed(835, 200, string("Click the left mouse button to advance.") + "", 1.5, 1.5, 0);
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+/// @DnDVersion : 1
+/// @DnDHash : 50A253D5
+/// @DnDArgument : "x" "835"
+/// @DnDArgument : "y" "350"
+/// @DnDArgument : "xscale" "1.5"
+/// @DnDArgument : "yscale" "1.5"
+/// @DnDArgument : "caption" ""Use the back or home button to return""
+draw_text_transformed(835, 350, string("Use the back or home button to return") + "", 1.5, 1.5, 0);
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+/// @DnDVersion : 1
+/// @DnDHash : 68DBB0B6
+/// @DnDArgument : "x" "835"
+/// @DnDArgument : "y" "400"
+/// @DnDArgument : "xscale" "1.5"
+/// @DnDArgument : "yscale" "1.5"
+/// @DnDArgument : "caption" ""to the level or start screen at any""
+draw_text_transformed(835, 400, string("to the level or start screen at any") + "", 1.5, 1.5, 0);
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+/// @DnDVersion : 1
+/// @DnDHash : 5A5F1448
+/// @DnDArgument : "x" "835"
+/// @DnDArgument : "y" "450"
+/// @DnDArgument : "xscale" "1.5"
+/// @DnDArgument : "yscale" "1.5"
+/// @DnDArgument : "caption" ""time.""
+draw_text_transformed(835, 450, string("time.") + "", 1.5, 1.5, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1

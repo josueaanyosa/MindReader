@@ -1,11 +1,5 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 07E2D76C
-/// @DnDArgument : "var" "tutorialCooldown"
-tutorialCooldown = 0;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
 /// @DnDHash : 30CF3551
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "tutorialStep"
@@ -37,3 +31,10 @@ tutorialInstructions2 = "each round. Your job is to select.";
 /// @DnDArgument : "expr" ""the emotion the face represents.""
 /// @DnDArgument : "var" "tutorialInstructions3"
 tutorialInstructions3 = "the emotion the face represents.";
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 4350CC67
+/// @DnDArgument : "expr" "" ""
+/// @DnDArgument : "var" "tutorialInstructions4"
+tutorialInstructions4 = " ";
