@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 76007E5C
+/// @DnDArgument : "value" "false"
+/// @DnDArgument : "var" "confused_deactivate"
+global.confused_deactivate = false;
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 31FC5D47

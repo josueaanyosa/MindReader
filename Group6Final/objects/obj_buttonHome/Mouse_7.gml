@@ -17,3 +17,10 @@ room_goto(Startscreen);
 /// @DnDArgument : "soundid" "gameMusic"
 /// @DnDSaveInfo : "soundid" "gameMusic"
 audio_stop_sound(gameMusic);
+
+/// @DnDAction : YoYo Games.Audio.Stop_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 6E598B25
+/// @DnDArgument : "soundid" "introMusic"
+/// @DnDSaveInfo : "soundid" "introMusic"
+audio_stop_sound(introMusic);

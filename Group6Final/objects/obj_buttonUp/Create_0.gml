@@ -1,6 +1,6 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
-/// @DnDHash : 59AF9968
-/// @DnDArgument : "expr" ".25"
+/// @DnDHash : 282A3E8D
+/// @DnDArgument : "value" "0.25"
 /// @DnDArgument : "var" "music_volume"
-music_volume = .25;
+global.music_volume = 0.25;
