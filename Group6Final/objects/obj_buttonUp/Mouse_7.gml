@@ -32,4 +32,13 @@ if(global.music_volume < 0.5)
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "global.music_volume"
 	global.music_volume += .05;
+
+	/// @DnDAction : YoYo Games.Common.Set_Global
+	/// @DnDVersion : 1
+	/// @DnDHash : 601C6383
+	/// @DnDParent : 1993761E
+	/// @DnDArgument : "value" ".2"
+	/// @DnDArgument : "value_relative" "1"
+	/// @DnDArgument : "var" "volumeLevel"
+	global.volumeLevel += .2;
 }
