@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_tutorial",
-    "path": "sprites/spr_tutorial/spr_tutorial.yy",
+    "name": "spr_buttonTutorial",
+    "path": "sprites/spr_buttonTutorial/spr_buttonTutorial.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,6 +22,8 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":true,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_tutorial","path":"objects/obj_tutorial/obj_tutorial.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":10,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_tutorial","path":"objects/obj_tutorial/obj_tutorial.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":11,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_tutorial","path":"objects/obj_tutorial/obj_tutorial.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
