@@ -22,6 +22,9 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":true,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_hint","path":"objects/obj_hint/obj_hint.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_hint","path":"objects/obj_hint/obj_hint.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":10,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_hint","path":"objects/obj_hint/obj_hint.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":11,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_hint","path":"objects/obj_hint/obj_hint.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
