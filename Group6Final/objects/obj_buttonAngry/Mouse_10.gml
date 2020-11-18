@@ -9,9 +9,8 @@ if(global.angry_deactivate == false)
 	/// @DnDVersion : 1
 	/// @DnDHash : 316B7F0E
 	/// @DnDParent : 00EDB11F
-	/// @DnDArgument : "imageind_relative" "1"
 	/// @DnDArgument : "spriteind" "spr_buttonAngryDark"
 	/// @DnDSaveInfo : "spriteind" "spr_buttonAngryDark"
 	sprite_index = spr_buttonAngryDark;
-	image_index += 0;
+	image_index = 0;
 }
