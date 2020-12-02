@@ -12,6 +12,20 @@ if(wait_time <= 0)
 	instance_destroy();
 }
 
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3705D3FA
+/// @DnDArgument : "var" "global.current_feedback"
+/// @DnDArgument : "value" ""correct""
+if(global.current_feedback == "correct")
+{
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 166CBA02
+	/// @DnDParent : 3705D3FA
+	instance_destroy();
+}
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 3301686B

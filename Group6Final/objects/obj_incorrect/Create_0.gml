@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 67AAF3E4
+/// @DnDArgument : "value" ""incorrect""
+/// @DnDArgument : "var" "current_feedback"
+global.current_feedback = "incorrect";
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 567E289E
