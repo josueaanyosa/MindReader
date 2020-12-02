@@ -18,7 +18,7 @@ if(global.hints_activate == true)
 	/// @DnDVersion : 1
 	/// @DnDHash : 1513064A
 	/// @DnDParent : 355A9F73
-	/// @DnDArgument : "code" "sprites = ["spr_happy", "spr_angry", "spr_confused", "spr_pain", "spr_sad","spr_scared"]$(13_10)$(13_10)var i_candidate = irandom_range(0, array_length_1d(sprites) - 1);$(13_10)// If the answer is incorrect$(13_10)while (string_pos(sprites[i_candidate], sprite_get_name(global.correct_answer))!= 0)$(13_10){$(13_10)	i_candidate = irandom_range(0, array_length_1d(sprites) - 1);$(13_10)}$(13_10)$(13_10)switch(sprites[i_candidate]){$(13_10)	case "spr_happy":$(13_10)		global.happy_deactivate = true;$(13_10)		break;$(13_10)	case "spr_angry":$(13_10)		global.angry_deactivate = true;$(13_10)		break;$(13_10)	case "spr_confused":$(13_10)		global.confused_deactivate = true;$(13_10)		break;$(13_10)	case "spr_pain":$(13_10)		global.pain_deactivate = true;$(13_10)		break;$(13_10)	case "spr_sad":$(13_10)		global.sad_deactivate = true;$(13_10)		break;$(13_10)	case "spr_scared":$(13_10)		global.scared_deactivate = true$(13_10)		break;$(13_10)		$(13_10)}$(13_10)$(13_10)$(13_10)"
+	/// @DnDArgument : "code" "sprites = ["spr_happy", "spr_angry", "spr_confused", "spr_pain", "spr_sad","spr_scared"]$(13_10)$(13_10)var i_candidate = irandom_range(0, array_length_1d(sprites) - 1);$(13_10)// If the answer is incorrect$(13_10)while (string_pos(sprites[i_candidate], sprite_get_name(global.correct_answer))!= 0)$(13_10){$(13_10)	i_candidate = irandom_range(0, array_length_1d(sprites) - 1);$(13_10)}$(13_10)$(13_10)switch(sprites[i_candidate]){$(13_10)	case "spr_happy":$(13_10)		global.happy_deactivate = true;$(13_10)		break;$(13_10)	case "spr_angry":$(13_10)		global.angry_deactivate = true;$(13_10)		break;$(13_10)	case "spr_confused":$(13_10)		global.confused_deactivate = true;$(13_10)		break;$(13_10)	case "spr_pain":$(13_10)		global.pain_deactivate = true;$(13_10)		break;$(13_10)	case "spr_sad":$(13_10)		global.sad_deactivate = true;$(13_10)		break;$(13_10)	case "spr_scared":$(13_10)		global.scared_deactivate = true;$(13_10)		break;$(13_10)		$(13_10)}$(13_10)$(13_10)$(13_10)"
 	sprites = ["spr_happy", "spr_angry", "spr_confused", "spr_pain", "spr_sad","spr_scared"]
 	
 	var i_candidate = irandom_range(0, array_length_1d(sprites) - 1);
@@ -45,7 +45,7 @@ if(global.hints_activate == true)
 			global.sad_deactivate = true;
 			break;
 		case "spr_scared":
-			global.scared_deactivate = true
+			global.scared_deactivate = true;
 			break;
 			
 	}
