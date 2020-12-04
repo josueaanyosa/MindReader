@@ -12,6 +12,13 @@ global.current_feedback = "incorrect";
 /// @DnDArgument : "var" "wait_time"
 wait_time = 60;
 
+/// @DnDAction : YoYo Games.Audio.Stop_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 04BFDABD
+/// @DnDArgument : "soundid" "incorrect_sound"
+/// @DnDSaveInfo : "soundid" "incorrect_sound"
+audio_stop_sound(incorrect_sound);
+
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 38545C44

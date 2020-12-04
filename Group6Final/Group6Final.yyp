@@ -187,14 +187,14 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrder": [
-    {"name":"StaticRoom","path":"rooms/StaticRoom/StaticRoom.yy",},
-    {"name":"Startscreen","path":"rooms/Startscreen/Startscreen.yy",},
-    {"name":"GameScreen","path":"rooms/GameScreen/GameScreen.yy",},
-    {"name":"LevelScreen","path":"rooms/LevelScreen/LevelScreen.yy",},
-    {"name":"TutorialScreen","path":"rooms/TutorialScreen/TutorialScreen.yy",},
-    {"name":"LevelComplete","path":"rooms/LevelComplete/LevelComplete.yy",},
-    {"name":"SettingsScreen","path":"rooms/SettingsScreen/SettingsScreen.yy",},
+  "RoomOrderNodes": [
+    {"roomId":{"name":"StaticRoom","path":"rooms/StaticRoom/StaticRoom.yy",},},
+    {"roomId":{"name":"Startscreen","path":"rooms/Startscreen/Startscreen.yy",},},
+    {"roomId":{"name":"GameScreen","path":"rooms/GameScreen/GameScreen.yy",},},
+    {"roomId":{"name":"LevelScreen","path":"rooms/LevelScreen/LevelScreen.yy",},},
+    {"roomId":{"name":"TutorialScreen","path":"rooms/TutorialScreen/TutorialScreen.yy",},},
+    {"roomId":{"name":"LevelComplete","path":"rooms/LevelComplete/LevelComplete.yy",},},
+    {"roomId":{"name":"SettingsScreen","path":"rooms/SettingsScreen/SettingsScreen.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -224,15 +224,15 @@
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":".DS_Store","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.0.529",
+    "IDEVersion": "2.3.1.536",
   },
-  "resourceVersion": "1.3",
+  "resourceVersion": "1.4",
   "name": "Group6Final",
   "tags": [],
   "resourceType": "GMProject",

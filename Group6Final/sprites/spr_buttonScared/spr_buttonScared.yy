@@ -25,7 +25,6 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"4edacae7-f830-41b5-8695-e0813c2c12db","path":"sprites/spr_buttonScared/spr_buttonScared.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4edacae7-f830-41b5-8695-e0813c2c12db","path":"sprites/spr_buttonScared/spr_buttonScared.yy",},"LayerId":{"name":"","path":"",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"4edacae7-f830-41b5-8695-e0813c2c12db","path":"sprites/spr_buttonScared/spr_buttonScared.yy",},"LayerId":{"name":"f7b6f8ff-ba65-443f-9864-047cf86670e8","path":"sprites/spr_buttonScared/spr_buttonScared.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_buttonScared","path":"sprites/spr_buttonScared/spr_buttonScared.yy",},"resourceVersion":"1.0","name":"4edacae7-f830-41b5-8695-e0813c2c12db","tags":[],"resourceType":"GMSpriteFrame",},
   ],
