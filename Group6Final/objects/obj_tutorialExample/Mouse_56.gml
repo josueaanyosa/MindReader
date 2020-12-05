@@ -1,10 +1,32 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
+/// @DnDHash : 5814AE5D
+/// @DnDArgument : "var" "tutorialStep"
+/// @DnDArgument : "value" "9"
+if(tutorialStep == 9)
+{
+	/// @DnDAction : YoYo Games.Rooms.Previous_Room
+	/// @DnDVersion : 1
+	/// @DnDHash : 67360475
+	/// @DnDParent : 5814AE5D
+	room_goto_previous();
+}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
 /// @DnDHash : 1CDCBA1C
 /// @DnDArgument : "var" "tutorialStep"
-/// @DnDArgument : "value" "7"
-if(tutorialStep == 7)
+/// @DnDArgument : "value" "8"
+if(tutorialStep == 8)
 {
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 77D57454
+	/// @DnDParent : 1CDCBA1C
+	/// @DnDArgument : "expr" "9"
+	/// @DnDArgument : "var" "tutorialStep"
+	tutorialStep = 9;
+
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 530EFFF9
@@ -25,25 +47,33 @@ if(tutorialStep == 7)
 	/// @DnDVersion : 1
 	/// @DnDHash : 3EB2E686
 	/// @DnDParent : 1CDCBA1C
-	/// @DnDArgument : "expr" "" ""
+	/// @DnDArgument : "expr" ""Use your left mouse button again to""
 	/// @DnDArgument : "var" "tutorialInstructions3"
-	tutorialInstructions3 = " ";
+	tutorialInstructions3 = "Use your left mouse button again to";
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 1D6E017A
+	/// @DnDParent : 1CDCBA1C
+	/// @DnDArgument : "expr" ""return back to the level screen.""
+	/// @DnDArgument : "var" "tutorialInstructions4"
+	tutorialInstructions4 = "return back to the level screen.";
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 47BCC4EE
 /// @DnDArgument : "var" "tutorialStep"
-/// @DnDArgument : "value" "6"
-if(tutorialStep == 6)
+/// @DnDArgument : "value" "7"
+if(tutorialStep == 7)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 563ED61C
 	/// @DnDParent : 47BCC4EE
-	/// @DnDArgument : "expr" "7"
+	/// @DnDArgument : "expr" "8"
 	/// @DnDArgument : "var" "tutorialStep"
-	tutorialStep = 7;
+	tutorialStep = 8;
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
@@ -90,16 +120,16 @@ if(tutorialStep == 6)
 /// @DnDVersion : 1
 /// @DnDHash : 494C733F
 /// @DnDArgument : "var" "tutorialStep"
-/// @DnDArgument : "value" "5"
-if(tutorialStep == 5)
+/// @DnDArgument : "value" "6"
+if(tutorialStep == 6)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 409C6F12
 	/// @DnDParent : 494C733F
-	/// @DnDArgument : "expr" "6"
+	/// @DnDArgument : "expr" "7"
 	/// @DnDArgument : "var" "tutorialStep"
-	tutorialStep = 6;
+	tutorialStep = 7;
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
@@ -132,6 +162,68 @@ if(tutorialStep == 5)
 	/// @DnDArgument : "expr" ""if you do so!""
 	/// @DnDArgument : "var" "tutorialInstructions4"
 	tutorialInstructions4 = "if you do so!";
+}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3747DA2A
+/// @DnDArgument : "var" "tutorialStep"
+/// @DnDArgument : "value" "5"
+if(tutorialStep == 5)
+{
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 65EC6CE1
+	/// @DnDParent : 3747DA2A
+	/// @DnDArgument : "expr" "6"
+	/// @DnDArgument : "var" "tutorialStep"
+	tutorialStep = 6;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 2D998C24
+	/// @DnDParent : 3747DA2A
+	/// @DnDArgument : "expr" ""Once per level, you can use the hint""
+	/// @DnDArgument : "var" "tutorialInstructions1"
+	tutorialInstructions1 = "Once per level, you can use the hint";
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 426BE841
+	/// @DnDParent : 3747DA2A
+	/// @DnDArgument : "expr" ""button to have an incorrect option""
+	/// @DnDArgument : "var" "tutorialInstructions2"
+	tutorialInstructions2 = "button to have an incorrect option";
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 27A18818
+	/// @DnDParent : 3747DA2A
+	/// @DnDArgument : "expr" ""removed. When doing this, your score""
+	/// @DnDArgument : "var" "tutorialInstructions3"
+	tutorialInstructions3 = "removed. When doing this, your score";
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 575C4DCB
+	/// @DnDParent : 3747DA2A
+	/// @DnDArgument : "expr" ""will decrease by 1.""
+	/// @DnDArgument : "var" "tutorialInstructions4"
+	tutorialInstructions4 = "will decrease by 1.";
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 7B17CDC9
+	/// @DnDApplyTo : {obj_hintForTutorial}
+	/// @DnDParent : 3747DA2A
+	with(obj_hintForTutorial) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 0F3090EA
+	/// @DnDApplyTo : {obj_buttonSadForTutorial}
+	/// @DnDParent : 3747DA2A
+	with(obj_buttonSadForTutorial) instance_destroy();
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
