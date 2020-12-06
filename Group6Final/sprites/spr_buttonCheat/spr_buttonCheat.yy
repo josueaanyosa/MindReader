@@ -1,6 +1,6 @@
 {
   "bboxMode": 0,
-  "collisionKind": 1,
+  "collisionKind": 4,
   "type": 0,
   "origin": 4,
   "preMultiplyAlpha": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4edacae7-f830-41b5-8695-e0813c2c12db","path":"sprites/spr_buttonScared/spr_buttonScared.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4edacae7-f830-41b5-8695-e0813c2c12db","path":"sprites/spr_buttonScared/spr_buttonScared.yy",},"LayerId":{"name":"f7b6f8ff-ba65-443f-9864-047cf86670e8","path":"sprites/spr_buttonScared/spr_buttonScared.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_buttonScared","path":"sprites/spr_buttonScared/spr_buttonScared.yy",},"resourceVersion":"1.0","name":"4edacae7-f830-41b5-8695-e0813c2c12db","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fbf01c44-4cfc-4710-94c4-0f40a1c7fcdc","path":"sprites/spr_buttonCheat/spr_buttonCheat.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fbf01c44-4cfc-4710-94c4-0f40a1c7fcdc","path":"sprites/spr_buttonCheat/spr_buttonCheat.yy",},"LayerId":{"name":"4a6f3462-aa1c-4189-8c72-660168f235e5","path":"sprites/spr_buttonCheat/spr_buttonCheat.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_buttonCheat","path":"sprites/spr_buttonCheat/spr_buttonCheat.yy",},"resourceVersion":"1.0","name":"fbf01c44-4cfc-4710-94c4-0f40a1c7fcdc","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_buttonScared","path":"sprites/spr_buttonScared/spr_buttonScared.yy",},
+    "spriteId": {"name":"spr_buttonCheat","path":"sprites/spr_buttonCheat/spr_buttonCheat.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"7af0d722-119a-4728-8fda-50eb37f9bbb5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4edacae7-f830-41b5-8695-e0813c2c12db","path":"sprites/spr_buttonScared/spr_buttonScared.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c1c40860-92db-4d66-ab2a-125bb41f8133","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fbf01c44-4cfc-4710-94c4-0f40a1c7fcdc","path":"sprites/spr_buttonCheat/spr_buttonCheat.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 160,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_buttonScared","path":"sprites/spr_buttonScared/spr_buttonScared.yy",},
+    "parent": {"name":"spr_buttonCheat","path":"sprites/spr_buttonCheat/spr_buttonCheat.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_buttonScared",
+    "name": "spr_buttonCheat",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f7b6f8ff-ba65-443f-9864-047cf86670e8","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4a6f3462-aa1c-4189-8c72-660168f235e5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_buttonScared",
+  "name": "spr_buttonCheat",
   "tags": [],
   "resourceType": "GMSprite",
 }
