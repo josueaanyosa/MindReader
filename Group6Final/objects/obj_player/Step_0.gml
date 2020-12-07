@@ -53,6 +53,21 @@ if(sprite_unassigned == true)
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
+/// @DnDHash : 1D8E0C85
+/// @DnDArgument : "var" "n_lives"
+if(n_lives == 0)
+{
+	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+	/// @DnDVersion : 1
+	/// @DnDHash : 4402D384
+	/// @DnDParent : 1D8E0C85
+	/// @DnDArgument : "room" "LevelScreen"
+	/// @DnDSaveInfo : "room" "LevelScreen"
+	room_goto(LevelScreen);
+}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
 /// @DnDHash : 52AC0955
 /// @DnDArgument : "var" "gold_count"
 /// @DnDArgument : "value" "4"

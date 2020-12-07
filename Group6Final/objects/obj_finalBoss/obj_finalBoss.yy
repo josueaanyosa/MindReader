@@ -24,6 +24,7 @@
     {"isDnD":true,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_finalBoss","path":"objects/obj_finalBoss/obj_finalBoss.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":10,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_finalBoss","path":"objects/obj_finalBoss/obj_finalBoss.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":11,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_finalBoss","path":"objects/obj_finalBoss/obj_finalBoss.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_finalBoss","path":"objects/obj_finalBoss/obj_finalBoss.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

@@ -147,6 +147,7 @@
     {"id":{"name":"spr_angry10","path":"sprites/spr_angry10/spr_angry10.yy",},"order":10,},
     {"id":{"name":"spr_angry1","path":"sprites/spr_angry1/spr_angry1.yy",},"order":0,},
     {"id":{"name":"spr_sad3_fb","path":"sprites/spr_sad3_fb/spr_sad3_fb.yy",},"order":13,},
+    {"id":{"name":"obj_levelTracker","path":"objects/obj_levelTracker/obj_levelTracker.yy",},"order":43,},
     {"id":{"name":"spr_start","path":"sprites/spr_start/spr_start.yy",},"order":7,},
     {"id":{"name":"spr_sad12","path":"sprites/spr_sad12/spr_sad12.yy",},"order":6,},
     {"id":{"name":"spr_text3","path":"sprites/spr_text3/spr_text3.yy",},"order":16,},
