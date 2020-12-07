@@ -2,8 +2,8 @@
 /// @DnDVersion : 1
 /// @DnDHash : 18C31176
 /// @DnDArgument : "var" "global.finalboss_unlocked"
-/// @DnDArgument : "value" "false"
-if(global.finalboss_unlocked == false)
+/// @DnDArgument : "value" "true"
+if(global.finalboss_unlocked == true)
 {
 	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1

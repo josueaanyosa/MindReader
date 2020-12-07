@@ -57,6 +57,20 @@ if(sprite_unassigned == true)
 /// @DnDArgument : "var" "n_lives"
 if(n_lives == 0)
 {
+	/// @DnDAction : YoYo Games.Common.Execute_Code
+	/// @DnDVersion : 1
+	/// @DnDHash : 00A95D9F
+	/// @DnDParent : 1D8E0C85
+	/// @DnDArgument : "code" "ds_list_clear(global.possible_faces);$(13_10)ds_list_add(global.possible_faces, spr_happy1_fb, spr_happy4_fb,$(13_10)			spr_sad3_fb,$(13_10)			spr_angry4_fb, spr_angry5_fb,$(13_10)			spr_sad9_fb, $(13_10)			spr_confused3_fb,$(13_10)			spr_pain4_fb, spr_pain6_fb, spr_pain8_fb, $(13_10)			spr_scared10_fb, spr_scared11_fb);"
+	ds_list_clear(global.possible_faces);
+	ds_list_add(global.possible_faces, spr_happy1_fb, spr_happy4_fb,
+				spr_sad3_fb,
+				spr_angry4_fb, spr_angry5_fb,
+				spr_sad9_fb, 
+				spr_confused3_fb,
+				spr_pain4_fb, spr_pain6_fb, spr_pain8_fb, 
+				spr_scared10_fb, spr_scared11_fb);
+
 	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 4402D384
